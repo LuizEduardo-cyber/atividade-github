@@ -2,8 +2,4 @@
 
 # Informações
 
-Nome: Luiz Eduardo
-
-Formação: Graduando em licenciatura da computação
-
-Projeto: Pretendo desenvolver um sistema utilizando visão computacional para identificação de pragas na uva.
+Motivo: Quero desenvolver esse sistema para ajudar produtores a identificarem pragas de forma antecipada usando visão computacional.
